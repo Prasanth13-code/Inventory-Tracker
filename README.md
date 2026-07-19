@@ -1,4 +1,4 @@
-# CODTECH INTERNID - CITS3926
+
 
 # Inventory Tracker
 
